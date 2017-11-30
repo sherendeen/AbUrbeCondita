@@ -1,0 +1,4 @@
+\\s1.student.flcc.edu\sherendeen16$\visual studio 2010\Projects\AbUrbeCondita\AbUrbeCondita\bin\Debug\AbUrbeCondita.exe
+\\s1.student.flcc.edu\sherendeen16$\visual studio 2010\Projects\AbUrbeCondita\AbUrbeCondita\bin\Debug\AbUrbeCondita.pdb
+\\s1.student.flcc.edu\sherendeen16$\visual studio 2010\Projects\AbUrbeCondita\AbUrbeCondita\obj\x86\Debug\AbUrbeCondita.exe
+\\s1.student.flcc.edu\sherendeen16$\visual studio 2010\Projects\AbUrbeCondita\AbUrbeCondita\obj\x86\Debug\AbUrbeCondita.pdb
